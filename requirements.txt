@@ -1,0 +1,16 @@
+pandas
+transformers
+scikit-learn
+torch
+tensorflow
+nltk
+requests
+joblib
+fastapi
+uvicorn
+python-telegram-bot==13.7
+pyngrok
+pydantic
+pytz 
+nltk 
+requests
